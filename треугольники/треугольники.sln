@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "треугольники", "треугольники\треугольники.csproj", "{121761CF-F5EA-44A8-8063-84E6136010A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121761CF-F5EA-44A8-8063-84E6136010A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121761CF-F5EA-44A8-8063-84E6136010A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121761CF-F5EA-44A8-8063-84E6136010A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121761CF-F5EA-44A8-8063-84E6136010A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A611C22-8063-40F2-BC0F-57C7BD2940FF}
+	EndGlobalSection
+EndGlobal

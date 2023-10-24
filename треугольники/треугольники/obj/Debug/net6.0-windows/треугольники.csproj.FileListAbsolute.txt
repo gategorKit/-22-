@@ -1,0 +1,17 @@
+C:\Users\user\Source\Repos\треугольники\треугольники\bin\Debug\net6.0-windows\треугольники.exe
+C:\Users\user\Source\Repos\треугольники\треугольники\bin\Debug\net6.0-windows\треугольники.deps.json
+C:\Users\user\Source\Repos\треугольники\треугольники\bin\Debug\net6.0-windows\треугольники.runtimeconfig.json
+C:\Users\user\Source\Repos\треугольники\треугольники\bin\Debug\net6.0-windows\треугольники.dll
+C:\Users\user\Source\Repos\треугольники\треугольники\bin\Debug\net6.0-windows\треугольники.pdb
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.Form1.resources
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.AssemblyInfo.cs
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.dll
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\refint\треугольники.dll
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.pdb
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\треугольники.genruntimeconfig.cache
+C:\Users\user\Source\Repos\треугольники\треугольники\obj\Debug\net6.0-windows\ref\треугольники.dll
