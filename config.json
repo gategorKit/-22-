@@ -1,0 +1,5 @@
+{
+    "ip_camera": "rtsp://admin:admin@192.168.1.88:554/12",
+    "gps_port": "/dev/ttyS4",
+    "arduino_port": "/dev/ttyS0"
+}
